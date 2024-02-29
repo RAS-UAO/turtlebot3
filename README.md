@@ -2,6 +2,8 @@
 
 Here's a guide to installl Ubuntu the Robotis' TurtleBot 3 to ROS2
 
+![Turtlebot 3](https://github.com/RAS-UAO/turtlebot3/assets/98227139/0b90fbb5-28ae-497b-bc9f-ac5e382137af)
+
 **Important:** The guides talks exclusively about *ROS2 Humble* distribution, no other ROS2 distributions such as Foxy or Iron.
 
 # Part 1: Ubuntu Server 22.04 Installation
@@ -34,9 +36,15 @@ Having Ubuntu, ROS and its necessary packages, the next step is to install the T
 
 The physical devices are:
 
- - LDS-01 LiDAR (or LDS-02 LiDAR, depending on the year the TurtleBot 3 was bought ). To know your LDS model, please refer to this documentation (in the Humble variant): https://emanual.robotis.com/docs/en/platform/turtlebot3/sbc_setup/#sbc-setup
+ - LDS-01 LiDAR (or LDS-02 LiDAR, depending on the year the TurtleBot 3 was bought). It's possible to deduct the LiDAR model just by the looks:
+
+![Captura de pantalla 2024-02-29 144446](https://github.com/RAS-UAO/turtlebot3/assets/98227139/9a7f1e50-21eb-4b69-9e53-1743a20bd5b8)
+
  
- - OpenCR board (the board that controls the motors) 
+ - OpenCR board. This is the board that controls the TurtleBot 3's motors
+
+![OpenCR](https://github.com/RAS-UAO/turtlebot3/assets/98227139/54392209-2545-4e75-b491-be876f82db5b)
+
 
 To install the LDS-01 LiDAR (in our case), just type:
 
