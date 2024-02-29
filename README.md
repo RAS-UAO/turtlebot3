@@ -1,4 +1,4 @@
-# GuIde to migrate TurtleBot 3 to ROS2 Humble
+# Guide for migrating TurtleBot 3 to ROS2 Humble
 
 Here's a guide to installl Ubuntu the Robotis' TurtleBot 3 to ROS2
 
