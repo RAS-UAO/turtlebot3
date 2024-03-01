@@ -71,7 +71,7 @@ These next steps are absolutely necessary because, every time the TurtleBot 3 is
 
     export OPENCR_MODEL=burger
 
-Those are the ROS2 and hardware configurations to use the Turtlebot 3. Please, **the user's PC and the TurtleBot's Raspberry Pi must have the exact same ROS_DOMAIN_ID**, note that the ROS_DOMAIN_ID is recommended to ve 0 or 11 for the TurtleBot 3
+Those are the ROS2 and hardware configurations to use the Turtlebot 3. Please, **the user's PC and the TurtleBot's Raspberry Pi must have the exact same ROS_DOMAIN_ID**, note that the ROS_DOMAIN_ID is recommended to be 0 or 11 for the TurtleBot 3
 
 However, there is a way to not have to introduce those commands all the time: **to add them to the hidden *.bashrc file*.**
 
