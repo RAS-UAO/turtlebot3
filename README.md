@@ -1,8 +1,8 @@
-# TurtleBot 3
+# Guide for migrating TurtleBot 3 to ROS2 Humble
 
 **Important:** The guides talks exclusively about *ROS2 Humble* distribution, no other ROS2 distributions such as Foxy or Iron.
 
-![Turtlebot](https://github.com/user-attachments/assets/2fe527e6-172b-43b0-8e34-48a42bbb3043)
+![Turtlebot](https://github.com/user-attachments/assets/eeb96236-7f6e-4c2a-a9e8-73b3b79d017d)
 
 # Part 1: Ubuntu Server 22.04 Installation
 
