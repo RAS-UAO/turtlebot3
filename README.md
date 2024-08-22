@@ -1,7 +1,5 @@
 # Guide for migrating TurtleBot 3 to ROS2 Humble
 
-In this repository, a step-by-step guide for migrating the Robotis' TurtleBot 3 to ROS2 is presented 
-
 ![Turtlebot 3](https://github.com/RAS-UAO/turtlebot3/assets/98227139/0b90fbb5-28ae-497b-bc9f-ac5e382137af)
 
 **Important:** The guides talks exclusively about *ROS2 Humble* distribution, no other ROS2 distributions such as Foxy or Iron.
