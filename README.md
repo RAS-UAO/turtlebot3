@@ -1,4 +1,4 @@
-# Guide for migrating TurtleBot 3 to ROS2 Humble
+# TurtleBot 3
 
 **Important:** The guides talks exclusively about *ROS2 Humble* distribution, no other ROS2 distributions such as Foxy or Iron.
 
